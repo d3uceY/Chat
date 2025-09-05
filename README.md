@@ -14,7 +14,7 @@ It supports real-time messaging, likes, and comments.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <repo-folder>
 ````
 
@@ -99,5 +99,6 @@ src/
 * Ensure MongoDB is running before starting the server.
 
 ---
+
 
 
